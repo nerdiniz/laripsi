@@ -1,7 +1,5 @@
 {
     "version": 2,
-    "name": "psicologa-spa",
-    "public": true,
     "cleanUrls": true,
     "headers": [
         {
