@@ -4,8 +4,9 @@
 
 const CONFIG = {
     // Informações Pessoais
-    nome: "Larissa Moura",
+    nome: "Larissa Alves de Moura",
     crp: "06/160923",
+    abordagem: "Analítica Junguiana",
 
     // Contato
     telefone: "5512982166426", // Apenas números, com código do país (55)
